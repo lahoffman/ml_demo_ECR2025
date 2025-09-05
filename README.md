@@ -6,7 +6,7 @@ This tutorial includes:
 - slide deck: Intro to ML for Earth and Climate Scientists
 - code: a tutorial that can be run in Binder [lesson.ipynb]
 - data: data required to run the tutorial [data/data_ITP.nc]
-- binder link: https://mybinder.org/v2/gh/lahoffman/ml_demo_ECR2025/fafd87a4a91575bc8dd00b584ddde27efac67545?urlpath=lab%2Ftree%2Flesson.ipynb
+- binder link: https://mybinder.org/v2/gh/lahoffman/ml_demo_ECR2025/ce175e268c3edfccbf7965a8908ffaa50f7e260c?urlpath=lab%2Ftree%2Flesson.ipynb
 
 ## Tensorflow Code
 
