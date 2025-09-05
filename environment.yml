@@ -1,0 +1,36 @@
+name: ml-teaching
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - xarray
+  - h5py
+  - scikit-learn
+  - netcdf4
+
+  # Mapping / geospatial for Cartopy
+  - cartopy
+  - shapely
+  - proj
+  - pyproj
+
+  # Colormaps
+  - cmocean
+
+  # Machine learning
+  - tensorflow=2.15.*
+  - keras=2.15.*
+
+  # (Optional) keep pip available if you ever need a one-off package
+  - pip
